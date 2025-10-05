@@ -66,3 +66,6 @@ Skilled in Power BI, Python, SQL, Excel, and Data Analysis
 
 How the Dashboard looks like👇
 <img width="1705" height="974" alt="Screenshot 2025-10-05 191006" src="https://github.com/user-attachments/assets/1b64cc54-ed73-4558-9644-ff5f487deacd" />
+
+<img width="1675" height="971" alt="Screenshot 2025-10-05 192102" src="https://github.com/user-attachments/assets/ff82f560-2352-4055-b37b-1f82ba5631c9" />
+
